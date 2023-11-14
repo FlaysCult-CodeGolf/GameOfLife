@@ -1,0 +1,15 @@
+C:\Users\baker\Code\c#\GoL\GoL\obj\Debug\net7.0\GoL.csproj.AssemblyReference.cache
+C:\Users\baker\Code\c#\GoL\GoL\obj\Debug\net7.0\GoL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baker\Code\c#\GoL\GoL\obj\Debug\net7.0\GoL.AssemblyInfoInputs.cache
+C:\Users\baker\Code\c#\GoL\GoL\obj\Debug\net7.0\GoL.AssemblyInfo.cs
+C:\Users\baker\Code\c#\GoL\GoL\obj\Debug\net7.0\GoL.csproj.CoreCompileInputs.cache
+C:\Users\baker\Code\c#\GoL\GoL\bin\Debug\net7.0\GoL.exe
+C:\Users\baker\Code\c#\GoL\GoL\bin\Debug\net7.0\GoL.deps.json
+C:\Users\baker\Code\c#\GoL\GoL\bin\Debug\net7.0\GoL.runtimeconfig.json
+C:\Users\baker\Code\c#\GoL\GoL\bin\Debug\net7.0\GoL.dll
+C:\Users\baker\Code\c#\GoL\GoL\bin\Debug\net7.0\GoL.pdb
+C:\Users\baker\Code\c#\GoL\GoL\obj\Debug\net7.0\GoL.dll
+C:\Users\baker\Code\c#\GoL\GoL\obj\Debug\net7.0\refint\GoL.dll
+C:\Users\baker\Code\c#\GoL\GoL\obj\Debug\net7.0\GoL.pdb
+C:\Users\baker\Code\c#\GoL\GoL\obj\Debug\net7.0\GoL.genruntimeconfig.cache
+C:\Users\baker\Code\c#\GoL\GoL\obj\Debug\net7.0\ref\GoL.dll

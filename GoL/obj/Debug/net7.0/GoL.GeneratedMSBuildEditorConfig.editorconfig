@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = GoL
-build_property.ProjectDir = C:\Users\baker\Code\c#\GoL\GoL\
+build_property.ProjectDir = C:\Users\baker\Code\c#\CodeGolf\GameOfLife\GoL\

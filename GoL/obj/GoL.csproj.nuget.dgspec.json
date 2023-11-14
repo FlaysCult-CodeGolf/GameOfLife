@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\baker\\Code\\c#\\GoL\\GoL\\GoL.csproj": {}
+    "C:\\Users\\baker\\Code\\c#\\CodeGolf\\GameOfLife\\GoL\\GoL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\baker\\Code\\c#\\GoL\\GoL\\GoL.csproj": {
+    "C:\\Users\\baker\\Code\\c#\\CodeGolf\\GameOfLife\\GoL\\GoL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\baker\\Code\\c#\\GoL\\GoL\\GoL.csproj",
+        "projectUniqueName": "C:\\Users\\baker\\Code\\c#\\CodeGolf\\GameOfLife\\GoL\\GoL.csproj",
         "projectName": "GoL",
-        "projectPath": "C:\\Users\\baker\\Code\\c#\\GoL\\GoL\\GoL.csproj",
+        "projectPath": "C:\\Users\\baker\\Code\\c#\\CodeGolf\\GameOfLife\\GoL\\GoL.csproj",
         "packagesPath": "C:\\Users\\baker\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\baker\\Code\\c#\\GoL\\GoL\\obj\\",
+        "outputPath": "C:\\Users\\baker\\Code\\c#\\CodeGolf\\GameOfLife\\GoL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\baker\\AppData\\Roaming\\NuGet\\NuGet.Config",

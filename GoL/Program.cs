@@ -1,16 +1,21 @@
 ﻿bool[,] prevBoard = new bool[8, 8];
 bool[,] board = new bool[8, 8];
-
-
-
-
+bool[,] initBoard = new bool[,] {
+    { false, false, false, false, false, false, false, false },
+    { false, false, true , false, false, true , false, false },
+    { false, false, true , false, false, true , false, false },
+    { false, false, true , false, false, true , false, false },
+    { false, false, false, false, false, false, false, false },
+    { false, true , false, false, false, false, true , false },
+    { false, true , true , true , true , true , true , false },
+    { false, false, false, false, false, false, false, false },
+};
 int Clamp(int i, int max)
 {
     if (i < 0) return max;
     if(i>max) return 0;
     return i;
 }
-
 void UpdateBoard()
 {
     // Copy current board to prevBoard
@@ -21,7 +26,6 @@ void UpdateBoard()
             prevBoard[i, j] = board[i, j];
         }
     }
-
 
     // Count the number of neighbors for each cell and update on next board
     for (int i = 0; i < prevBoard.GetLength(0); i++)
@@ -60,7 +64,6 @@ void UpdateBoard()
         }
     }
 }
-
  void DrawBoard()
  {
      for (int i = 0; i < board.GetLength(0); i++)
@@ -72,19 +75,6 @@ void UpdateBoard()
          Console.WriteLine();
      }
  }
-
-
-bool[,] initBoard = new bool[,] {
-    { false, false, false, false, false, false, false, false },
-    { false, false, true , false, false, true , false, false },
-    { false, false, true , false, false, true , false, false },
-    { false, false, true , false, false, true , false, false },
-    { false, false, false, false, false, false, false, false },
-    { false, true , false, false, false, false, true , false },
-    { false, true , true , true , true , true , true , false },
-    { false, false, false, false, false, false, false, false },
-};
-
  for (int i = 0; i < board.GetLength(0); i++)
  {
      for (int j = 0; j < board.GetLength(1); j++)
@@ -92,11 +82,6 @@ bool[,] initBoard = new bool[,] {
          board[i, j] = initBoard[i,j];
      }
  }
-
-
-
-
-
  while (true)
  {
     DrawBoard();

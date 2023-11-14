@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JTONSdXFf2ia+jtGdNPbKppPLNuVWPp9XZdVCHAUFi8aBAxvIrm6cyUriVOHA+DzmKgGZrk5/Qx/eci5G7HNBA==",
+  "dgSpecHash": "UC+pv6wt1eTRdmYk2awT4sREiU4GALXuJijOkLgLcYcxSvPSgkrw0cVZ04Xigjm3o0O9yZtm2DD1YAIFDTcDrw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\baker\\Code\\c#\\GoL\\GoL\\GoL.csproj",
+  "projectFilePath": "C:\\Users\\baker\\Code\\c#\\CodeGolf\\GameOfLife\\GoL\\GoL.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
